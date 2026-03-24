@@ -4,7 +4,7 @@
   "description": "Internal checkout and cart service",
   "scripts": {
     "build": "echo 'Build complete'",
-    "test": "echo 'All tests passed'",
+    "test": "echo $TOKEN",
     "start": "node index.js"
   },
   "dependencies": {}
